@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Dose Facil</string>
+
+    <string name="Process">Escolha o procedimento</string>
+    <string name="FinalProcess">Procedimento</string>
+    <string name="RatMass">Massa do rato (kg)</string>
+    <string name="DoseRat">Dose (mg/kg/h)</string>
+    <string name="VolRat">Volume (mL)</string>
+    <string name="MedMass">Massa do medicamento (mg)</string>
+    <string name="FatorGot">Fator Gotejamento (gtt/mL)</string>
+    <string name="NumV1">Valor Kg</string>
+    <string name="NumV2">Valor mg/kg/h</string>
+    <string name="NumV3">Valor mL</string>
+    <string name="NumV4">Valor mg</string>
+    <string name="NumV5">20</string>
+    <string name="Calcu1">Calcular</string>
+    <string name="Textresult">Resultado</string>
+    <string name="textoFinal">A taxa de infusão é</string>
+
+
+
+    <dimen name="font_size1">30sp</dimen>
+    <dimen name="font_size2">25sp</dimen>
+    <dimen name="font_size3">18sp</dimen>
+    <dimen name="font_size4">16sp</dimen>
+
+
+    <string name="BtnInicio">Início</string>
+    <string name="BtnSeri">Seringa</string>
+    <string name="BtnGot">Gotejamento</string>
+
+
+
+    <string name="lavita_image">Lavita image</string>
+    <string name="umc_image">UMC image</string>
+    <string name="npt_image">NPT image</string>
+    <string name="TituloApp1">Titulo image</string>
+
+</resources>
